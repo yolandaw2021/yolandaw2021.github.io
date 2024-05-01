@@ -1,0 +1,66 @@
+h1 {
+    font-size: 40px;
+    color: #000;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font: monospace;
+}
+  
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #000;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font: monospace;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+p {
+    font-size: 18px;
+    color: #000;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul {
+    font-size: 15px;
+    color: #000;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    list-style-type: disc;
+}
+
+ol {
+    font-size: 15px;
+    color: #000;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    list-style-type: decimal;
+}
+
+.main-body {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.text {
+    color: red
+}
